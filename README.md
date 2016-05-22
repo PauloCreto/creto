@@ -1,2 +1,2 @@
 # creto
-My repository of DEB packages
+Repositório colaborativo
